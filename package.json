@@ -1,0 +1,22 @@
+{
+  "name": "homework-20-my-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "portfolio",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkl12/homework-20-my-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkl12/homework-20-my-portfolio/issues"
+  },
+  "homepage": "https://github.com/danielkl12/homework-20-my-portfolio#readme",
+  "dependencies": {
+    "node": "^16.6.1"
+  }
+}
