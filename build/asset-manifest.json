@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/danielkl12/homework-20-my-portfoliostatic/css/main.d52895db.chunk.css",
+    "main.js": "/danielkl12/homework-20-my-portfoliostatic/js/main.4f5cae27.chunk.js",
+    "main.js.map": "/danielkl12/homework-20-my-portfoliostatic/js/main.4f5cae27.chunk.js.map",
+    "runtime-main.js": "/danielkl12/homework-20-my-portfoliostatic/js/runtime-main.60403285.js",
+    "runtime-main.js.map": "/danielkl12/homework-20-my-portfoliostatic/js/runtime-main.60403285.js.map",
+    "static/js/2.fea03f48.chunk.js": "/danielkl12/homework-20-my-portfoliostatic/js/2.fea03f48.chunk.js",
+    "static/js/2.fea03f48.chunk.js.map": "/danielkl12/homework-20-my-portfoliostatic/js/2.fea03f48.chunk.js.map",
+    "index.html": "/danielkl12/homework-20-my-portfolioindex.html",
+    "static/css/main.d52895db.chunk.css.map": "/danielkl12/homework-20-my-portfoliostatic/css/main.d52895db.chunk.css.map",
+    "static/js/2.fea03f48.chunk.js.LICENSE.txt": "/danielkl12/homework-20-my-portfoliostatic/js/2.fea03f48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60403285.js",
+    "static/js/2.fea03f48.chunk.js",
+    "static/css/main.d52895db.chunk.css",
+    "static/js/main.4f5cae27.chunk.js"
+  ]
+}
