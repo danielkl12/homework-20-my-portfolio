@@ -3,7 +3,6 @@ import About from './components/About';
 import Navbar from './components/Navbar';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
-import Testimonials from './components/Testimonials';
 import Resume from './components/Resume';
 
 class App extends Coomponent {
@@ -14,8 +13,7 @@ class App extends Coomponent {
                 <Navbar portfolioData={portfolioData}/>
                 <Contact portfolioData={portfolioData}/>
                 <Projects portfolioData={portfolioData}/>
-                <Testimonials portfolioData={portfolioData}/>
-                <Skills portfolioData={portfolioData}/>
+                <Resume portfolioData={portfolioData}/>
             </div>
         );
     }

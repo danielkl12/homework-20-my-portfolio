@@ -60,9 +60,28 @@ let portfolioData = {
     ],
     "projects":[
         {
-            
+            "name": "Snaccidental Recipe",
+            "description": "webapp",
+            "imgurl": "./public/images/snaccidentalrecipe.jpg"
+        },
+        {
+            "name": "Trivalympics",
+            "description": "webapp",
+            "imgurl": "./public/images/codingland.jpg"
+        },
+        {
+            "name": "Day Planner App",
+            "description": "webapp",
+            "imgurl":"./public/images/dayplanner.jpg"
+        },
+        {
+            "name": "Password Generator",
+            "description": "webapp",
+            "imgurl":"./public/iimages/screenshot2.jpg"
         }
     ]
 
     
 }
+
+export default portfolioData;
